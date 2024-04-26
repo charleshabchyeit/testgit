@@ -16,7 +16,8 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	Name: 'Wafa'
+	Name: 'Wafa',
+	LastName: 'test'
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
